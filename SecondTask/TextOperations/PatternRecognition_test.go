@@ -4,6 +4,8 @@ import (
 	"testing"
 )
 
+//testing
+
 func TestCheck(t *testing.T) {
 	str := check("012201210001021201")
 	if (str != "The word W contains cube or patterns like xxx") {

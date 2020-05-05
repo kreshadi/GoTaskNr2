@@ -1,6 +1,6 @@
 package main
 
-//checks if w contains patterns xxx at any position
+//checks if w contains patterns xxx at any position.
 
 func check(w string) string {
 	str := "The word W does not contain cube or patterns like xxx"
