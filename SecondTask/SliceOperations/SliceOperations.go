@@ -6,15 +6,16 @@ import (
 	"sort"
 )
 
-func main()  {
+func main() {
 	elements := []int{9, 7, 5, 3, 1, 2, 4, 6, 8, 0}
 	elements = remove(elements, 8)
-    indext := Find(elements,4)
-    fmt.Println(indext)
+	indext := Find(elements, 4)
+	fmt.Println(indext)
 	elements = cryptographic(elements)
 	elements = DeleteAll(elements)
 
 }
+
 /* Sorting */
 func BubbleSort(elements []int) {
 	keepWorking := true
