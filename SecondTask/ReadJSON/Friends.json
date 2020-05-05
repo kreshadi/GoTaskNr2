@@ -1,0 +1,32 @@
+[
+  {
+    "fname": "Karherin",
+    "sname": "Smith",
+    "gender": "F",
+    "height": "172"
+  },
+  {
+    "fname": "William",
+    "sname": "Jones",
+    "gender": "M",
+    "height": "171"
+  },
+  {
+    "fname": "Katty",
+    "sname": "Miller",
+    "gender": "F",
+    "height": "165"
+  },
+  {
+    "fname": "John",
+    "sname": "Taylor",
+    "gender": "M",
+    "height": "180"
+  },
+  {
+    "fname": "Mack",
+    "sname": "Wilson",
+    "gender": "M",
+    "height": "169"
+  }
+]
